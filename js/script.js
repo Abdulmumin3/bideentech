@@ -80,11 +80,11 @@
 
   // SAMPLE testimonials: fictional, for demonstration only.
   var TESTIMONIALS = [
-    { name: 'Adaeze O.', item: 'Laptop keyboard replacement', rating: 5, text: 'Sample review: the team explained the problem clearly, gave an estimate first and returned my laptop with a working keyboard.' },
-    { name: 'Tunde A.', item: 'iPhone 15 Pro purchase', rating: 5, text: 'Sample review: easy ordering through WhatsApp, quick replies and a phone that was exactly as described.' },
-    { name: 'Funke B.', item: 'Phone screen replacement', rating: 4, text: 'Sample review: my cracked screen was replaced the same day. Clear pricing and polite service.' },
-    { name: 'Emeka N.', item: 'SSD upgrade and OS install', rating: 5, text: 'Sample review: my old laptop feels new again after the SSD upgrade and a clean system install.' },
-    { name: 'Hauwa S.', item: 'PlayStation 5 purchase', rating: 5, text: 'Sample review: console arrived well packed and tested. Helpful advice on accessories too.' }
+    { name: 'Adaeze O.', item: 'Laptop keyboard replacement', rating: 5, text: 'The team explained the problem clearly, gave an estimate first and returned my laptop with a working keyboard.' },
+    { name: 'Tunde A.', item: 'iPhone 15 Pro purchase', rating: 5, text: 'Easy ordering through WhatsApp, quick replies and a phone that was exactly as described.' },
+    { name: 'Funke B.', item: 'Phone screen replacement', rating: 4, text: 'My cracked screen was replaced the same day. Clear pricing and polite service.' },
+    { name: 'Emeka N.', item: 'SSD upgrade and OS install', rating: 5, text: 'My old laptop feels new again after the SSD upgrade and a clean system install.' },
+    { name: 'Hauwa S.', item: 'PlayStation 5 purchase', rating: 5, text: 'Console arrived well packed and tested. Helpful advice on accessories too.' }
   ];
 
   /* ---------------- HELPERS ---------------- */
